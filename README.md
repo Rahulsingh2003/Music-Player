@@ -22,7 +22,6 @@ cd Music-Player</code></pre>
   </li>
 </ol>
 
-<h2>Usage</h2>
 
 <h2>Contributing</h2>
 <p>Contributions are welcome! If you have any ideas or want to improve the player:</p>
