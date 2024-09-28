@@ -1,6 +1,6 @@
 <h1>🎵 Music Player</h1>
 
-<p>A simple, user-friendly desktop music player built using Python and the <code>tkinter</code> library. This application allows you to browse, manage, and play your favorite audio files.</p>
+<p>A web-based music player built using HTML, CSS, and JavaScript. This simple player allows users to play, pause, and manage their favorite audio files directly in the browser.</p>
 
 <h2>Features</h2>
 <ul>
