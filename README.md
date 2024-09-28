@@ -6,7 +6,6 @@
 <ul>
   <li><strong>Play Music</strong>: Enjoy audio files from your local library with basic playback controls (Play, Pause, Stop).</li>
   <li><strong>Playlist Management</strong>: Add multiple songs to a playlist and navigate through them.</li>
-  <li><strong>Interactive Interface</strong>: Built using <code>tkinter</code>, it provides a graphical user interface for easier interaction.</li>
   <li><strong>Cross-Platform Support</strong>: Works on Windows, macOS, and Linux.</li>
 </ul>
 
