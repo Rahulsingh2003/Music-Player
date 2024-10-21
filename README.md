@@ -1,5 +1,8 @@
 <h1>🎵 Music Player</h1>
 
+##Demo
+https://rahulsingh2003.github.io/Music-Player/
+
 <p>A web-based music player built using HTML, CSS, and JavaScript. This simple player allows users to play, pause, and manage their favorite audio files directly in the browser.</p>
 
 <h2>Features</h2>
